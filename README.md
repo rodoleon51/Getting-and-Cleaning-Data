@@ -17,7 +17,7 @@ Included in this repository are:
 1. Readme.md -> This file, a general description of the project.
 2. CodeBook.md -> Contains indications on use of the script, as well as descriptions of the variables, the data and work performed.
 3. run_analysis.ipynb -> A Jupyter Notebook version of the script.
-4. run_analysis.R -> The R script file to deliver the projects requirements.
+4. run_analysis.R -> The R script file to deliver the project's requirements.
 5. tidy_data.txt -> The requested data set in tidy format.
 
 The run_analysis.ipnyb file is not required by the project, but developing the code in Jupyter Notebook is very helpful as it allows immediate testing of the lines of code.Once ready, the code is easily copied and pasted to RStudio.
