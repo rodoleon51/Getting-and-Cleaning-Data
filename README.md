@@ -20,5 +20,4 @@ Included in this repository are:
 4. run_analysis.R -> The R script file to deliver the projects requirements.
 5. tidy_data.txt -> The requested data set in tidy format.
 
-Developing the code in Jupyter Notebook is very helpful as it allows immediate testing of the lines of code.
-Once ready it is easily copied and pasted to RStudio.
+The run_analysis.ipnyb file is not required by the project, but developing the code in Jupyter Notebook is very helpful as it allows immediate testing of the lines of code.Once ready, the code is easily copied and pasted to RStudio.
