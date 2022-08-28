@@ -5,7 +5,7 @@ The goal of this project is to prepare a tidy data that can be used for later an
 The data is sourced from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip  
 The zip file contains a number of files with test and training sets as well as dataframe label information. 
 
-The deliverable of the project is a run_analysis.R script file that:
+Per the course project requirements, the deliverable of the project is a run_analysis.R script file that:
     1. Merges the training and the test sets to create one data set.
     2. Extracts only the measurements on the mean and standard deviation for each measurement.
     3. Uses descriptive activity names to name the activities in the data set
