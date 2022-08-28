@@ -1,4 +1,4 @@
-# This CodeBook describes the data, variables, transformations and work done in the project
+#### This CodeBook describes the data, variables, transformations and work done in the project
 
 ## The source data
 The source data are from the Human Activity Recognition Using Smartphones Data Set. 
